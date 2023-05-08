@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCI-Assignment on Zeng Zhaobo</title>
+    <link>https://zzb98.github.io/HuGo/hci-assignment/</link>
+    <description>Recent content in HCI-Assignment on Zeng Zhaobo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Zeng Zhaobo</copyright>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://zzb98.github.io/HuGo/hci-assignment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Unreliable – Using smart speaker as smart home’s portal</title>
+      <link>https://zzb98.github.io/HuGo/hci-assignment/essay-ii/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://zzb98.github.io/HuGo/hci-assignment/essay-ii/</guid>
+      <description>Poster in Phase II
+In Essay I, I’ve mentioned that applying smart speaker as the central controller of the smart furniture may mass up everything when speaker misunderstands humans’ commands and send out wrong instructions to other furniture. For users, sometime it’s hard to withdraw these misunderstood commands, which might cause irreversible damage and even mass up everything. However, as I go deeper into this product, I have a better understand of this product, which leads to a change of the topic.</description>
+    </item>
+    
+    <item>
+      <title>The Bad – Using smart speaker as smart home’s portal</title>
+      <link>https://zzb98.github.io/HuGo/hci-assignment/essay-i/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://zzb98.github.io/HuGo/hci-assignment/essay-i/</guid>
+      <description>Poster in Phase I
+Nowadays, we are increasingly inseparable from the smart speaker. With strong potentials in playing audio, understanding humans’ commands and transmitting instructions, smart speakers are widely applied as a portal of smart home, working as a digital housekeeper to control other smart furniture. However, since this product is not mature enough, this housekeeper sometimes makes some mistakes, sending out wrong instructions to other furniture, and make furniture operate incorrectly or even the worse, letting them out of control.</description>
+    </item>
+    
+  </channel>
+</rss>
